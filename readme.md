@@ -4,7 +4,7 @@ This is a collection of animated gifs for all known Pokémons.
 
 All of these were obtained from https://www.pkparaiso.com/
 
-I created this in order to have a more comprehensive collection so I can easily use with my app, https://github.com/phcs93/prodex.
+I created this in order to have a more comprehensive collection to use with my app https://github.com/phcs93/prodex
 
 > I've choosen to pick the "outlined" version of the sprites because it looks better with a dark background (which my app uses).
 
@@ -14,7 +14,7 @@ Feel absolutely free to use these or point directly to this repository, I don't 
 
 The files are named according to the following pattern:
 
-`{id}[_s][-f].gif`
+`{id}[-f][_s].gif`
 
 For example:
 
