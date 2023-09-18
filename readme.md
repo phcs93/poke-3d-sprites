@@ -13,8 +13,22 @@ Feel absolutely free to use these or point directly to this repository, I don't 
 The majority of these were obtained from PkParaiso:  
 https://www.pkparaiso.com/
 
+Some Pikachu alternative forms from Smogon dex:
+https://www.smogon.com/dex/sv/pokemon/pikachu/
+
 Some hisuian sprites from users Flicks and arodriguez810 at smogon forums:  
 https://www.smogon.com/forums/threads/custom-3d-animated-renders.3526922/page-15
+
+Generation 9 sprites from users Flicks and arodriguez810 at smogon forums as well:
+https://www.smogon.com/forums/threads/custom-3d-animated-renders.3526922/page-16
+
+Rillaboom Gigantamax and Cinderace Gigantamax from Wikidex:
+https://www.wikidex.net/wiki/Rillaboom
+https://www.wikidex.net/wiki/Cinderace
+
+Walking Wake and Iron Leaves gifs from Wikidex:
+https://www.wikidex.net/wiki/Ondulagua
+https://www.wikidex.net/wiki/Ferroverdor
 
 ## Name pattern
 
