@@ -42,9 +42,9 @@ Generation 9 sprites from users Flicks and arodriguez810 at smogon forums as wel
 https://www.smogon.com/forums/threads/custom-3d-animated-renders.3526922/page-16
 
 Rillaboom Gigantamax and Cinderace Gigantamax from Wikidex:  
-https://www.wikidex.net/wiki/Rillaboom
-https://www.wikidex.net/wiki/Cinderace
+https://www.wikidex.net/wiki/Rillaboom  
+https://www.wikidex.net/wiki/Cinderace  
 
 Walking Wake and Iron Leaves gifs from Wikidex:  
-https://www.wikidex.net/wiki/Ondulagua
-https://www.wikidex.net/wiki/Ferroverdor
+https://www.wikidex.net/wiki/Ondulagua  
+https://www.wikidex.net/wiki/Ferroverdor  
