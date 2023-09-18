@@ -8,6 +8,25 @@ I created this in order to have a more comprehensive collection to use with my a
 
 Feel absolutely free to use these or point directly to this repository, I don't think GitHub servers will mind it.
 
+## Name pattern
+
+The files are named according to the following pattern:
+
+`{id}[-f][_s].gif`
+
+For example:
+
+| Pokémon | file name |
+| - | - |
+| male Venusaur | `3.gif` |
+| shiny male Venusaur | `3_s.gif` |
+| female Venusaur | `3-f.gif` |
+| shiny female Venusaur | `3-f_s.gif` |
+
+> The weird use of underscores and hifens are just so Windows Explorer shows these in a easy to read order.
+
+The files are named using the https://pokeapi.co/ ids, so all alternative forms (region specific, gigantamax, etc) are indexed starting at id 10000 and onwards.
+
 ## Credits
 
 The majority of these were obtained from PkParaiso:  
@@ -29,28 +48,3 @@ https://www.wikidex.net/wiki/Cinderace
 Walking Wake and Iron Leaves gifs from Wikidex:
 https://www.wikidex.net/wiki/Ondulagua
 https://www.wikidex.net/wiki/Ferroverdor
-
-## Name pattern
-
-The files are named according to the following pattern:
-
-`{id}[-f][_s].gif`
-
-For example:
-
-| Pokémon | file name |
-| - | - |
-| male Venusaur | `3.gif` |
-| shiny male Venusaur | `3_s.gif` |
-| female Venusaur | `3-f.gif` |
-| shiny female Venusaur | `3-f_s.gif` |
-
-> The weird use of underscores and hifens are just so Windows Explorer shows these in a easy to read order.
-
-The files are named using the https://pokeapi.co/ ids, so all alternative forms (region specific, gigantamax, etc) are indexed starting at id 10000 and onwards.
-
-## Missing sprites
-
-There are a lot of missing sprites right now, most notably gen 9 and some pokemons from Legends Arceus. 
-
-I'm still downloading those manually as I find them on the internet.
