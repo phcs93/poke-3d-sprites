@@ -51,47 +51,49 @@ https://www.wikidex.net/wiki/Ferroverdor
 
 ## Missing sprites
 
-- [GEN 7] #10094 Pikachu Original Cap [shiny]
-- [GEN 7] #10094 Pikachu Original Cap [female]
-- [GEN 7] #10094 Pikachu Original Cap [female] [shiny]
-- [GEN 7] #10095 Pikachu Hoenn Cap [shiny]
-- [GEN 7] #10095 Pikachu Hoenn Cap [female]
-- [GEN 7] #10095 Pikachu Hoenn Cap [female] [shiny]
-- [GEN 7] #10096 Pikachu Sinnoh Cap [shiny]
-- [GEN 7] #10096 Pikachu Sinnoh Cap [female]
-- [GEN 7] #10096 Pikachu Sinnoh Cap [female] [shiny]
-- [GEN 7] #10097 Pikachu Unova Cap [shiny]
-- [GEN 7] #10097 Pikachu Unova Cap [female]
-- [GEN 7] #10097 Pikachu Unova Cap [female] [shiny]
-- [GEN 7] #10098 Pikachu Kalos Cap [shiny]
-- [GEN 7] #10098 Pikachu Kalos Cap [female]
-- [GEN 7] #10098 Pikachu Kalos Cap [female] [shiny]
-- [GEN 7] #10099 Pikachu Alola Cap [shiny]
-- [GEN 7] #10099 Pikachu Alola Cap [female]
-- [GEN 7] #10099 Pikachu Alola Cap [female] [shiny]
-- [GEN 7] #10148 Pikachu Partner Cap [shiny]
-- [GEN 7] #10148 Pikachu Partner Cap [female]
-- [GEN 7] #10148 Pikachu Partner Cap [female] [shiny]
-- [GEN 7] #10158 Pikachu Starter [shiny]
-- [GEN 7] #10158 Pikachu Starter [female]
-- [GEN 7] #10158 Pikachu Starter [female] [shiny]
-- [GEN 7] #10159 Eevee Starter [shiny]
-- [GEN 8] #10160 Pikachu World Cap [shiny]
-- [GEN 8] #10160 Pikachu World Cap [female]
-- [GEN 8] #10160 Pikachu World Cap [female] [shiny]
-- [GEN 9] #10264 Koraidon Limited Build
-- [GEN 9] #10264 Koraidon Limited Build [shiny]
-- [GEN 9] #10265 Koraidon Sprinting Build
-- [GEN 9] #10265 Koraidon Sprinting Build [shiny]
-- [GEN 9] #10266 Koraidon Swimming Build
-- [GEN 9] #10266 Koraidon Swimming Build [shiny]
-- [GEN 9] #10267 Koraidon Gliding Build
-- [GEN 9] #10267 Koraidon Gliding Build [shiny]
-- [GEN 9] #10268 Miraidon Low Power Mode
-- [GEN 9] #10268 Miraidon Low Power Mode [shiny]
-- [GEN 9] #10269 Miraidon Drive Mode
-- [GEN 9] #10269 Miraidon Drive Mode [shiny]
-- [GEN 9] #10270 Miraidon Aquatic Mode
-- [GEN 9] #10270 Miraidon Aquatic Mode [shiny]
-- [GEN 9] #10271 Miraidon Glide Mode
-- [GEN 9] #10271 Miraidon Glide Mode [shiny]
+| Generation | ID (PokeAPI) | Name | Female | Shiny | 
+| - | - | - | - | - | 
+| 7 | #10094 | Pikachu Original Cap |  | shiny |
+| 7 | #10094 | Pikachu Original Cap | female |  |
+| 7 | #10094 | Pikachu Original Cap | female | shiny |
+| 7 | #10095 | Pikachu Hoenn Cap |  | shiny |
+| 7 | #10095 | Pikachu Hoenn Cap | female |  |
+| 7 | #10095 | Pikachu Hoenn Cap | female | shiny |
+| 7 | #10096 | Pikachu Sinnoh Cap |  | shiny |
+| 7 | #10096 | Pikachu Sinnoh Cap | female |  |
+| 7 | #10096 | Pikachu Sinnoh Cap | female | shiny |
+| 7 | #10097 | Pikachu Unova Cap |  | shiny |
+| 7 | #10097 | Pikachu Unova Cap | female |  |
+| 7 | #10097 | Pikachu Unova Cap | female | shiny |
+| 7 | #10098 | Pikachu Kalos Cap |  | shiny |
+| 7 | #10098 | Pikachu Kalos Cap | female |  |
+| 7 | #10098 | Pikachu Kalos Cap | female | shiny |
+| 7 | #10099 | Pikachu Alola Cap |  | shiny |
+| 7 | #10099 | Pikachu Alola Cap | female |  |
+| 7 | #10099 | Pikachu Alola Cap | female | shiny |
+| 7 | #10148 | Pikachu Partner Cap |  | shiny |
+| 7 | #10148 | Pikachu Partner Cap | female |  |
+| 7 | #10148 | Pikachu Partner Cap | female | shiny |
+| 7 | #10158 | Pikachu Starter |  | shiny |
+| 7 | #10158 | Pikachu Starter | female |  |
+| 7 | #10158 | Pikachu Starter | female | shiny |
+| 7 | #10159 | Eevee Starter |  | shiny |
+| 8 | #10160 | Pikachu World Cap |  | shiny |
+| 8 | #10160 | Pikachu World Cap | female |  |
+| 8 | #10160 | Pikachu World Cap | female | shiny |
+| 9 | #10264 | Koraidon Limited Build |  |  |
+| 9 | #10264 | Koraidon Limited Build |  | shiny |
+| 9 | #10265 | Koraidon Sprinting Build |  |  |
+| 9 | #10265 | Koraidon Sprinting Build |  | shiny |
+| 9 | #10266 | Koraidon Swimming Build |  |  |
+| 9 | #10266 | Koraidon Swimming Build |  | shiny |
+| 9 | #10267 | Koraidon Gliding Build |  |  |
+| 9 | #10267 | Koraidon Gliding Build |  | shiny |
+| 9 | #10268 | Miraidon Low Power Mode |  |  |
+| 9 | #10268 | Miraidon Low Power Mode |  | shiny |
+| 9 | #10269 | Miraidon Drive Mode |  |  |
+| 9 | #10269 | Miraidon Drive Mode |  | shiny |
+| 9 | #10270 | Miraidon Aquatic Mode |  |  |
+| 9 | #10270 | Miraidon Aquatic Mode |  | shiny |
+| 9 | #10271 | Miraidon Glide Mode |  |  |
+| 9 | #10271 | Miraidon Glide Mode |  | shiny |
